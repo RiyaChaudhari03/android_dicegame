@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Dice Game</string>
+    <string name="Dicelogo" translatable="false">This is dise logo</string>
+    <string name="Lower" translatable="false">Butto</string>
+    <string name="Higher" translatable="false">Button</string>
+    <string name="Computer" translatable="false">Computer</string>
+    <string name="User" translatable="false">User</string>
+    <string name="Diselogo" translatable="false">Diselogo</string>
+    <string name="higher">Higher</string>
+</resources>

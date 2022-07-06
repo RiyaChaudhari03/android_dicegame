@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dise Game</string>
+    <string name="Diselogo">This is dise logo</string>
+    <string name="Lower" translatable="false">Butto</string>
+    <string name="Higher" translatable="false">Button</string>
+    <string name="Computer">Computer</string>
+    <string name="User">User</string>
+</resources>
